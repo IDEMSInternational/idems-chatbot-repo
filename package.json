@@ -1,5 +1,5 @@
 {
-  "name": "@idems/idems-chatbot-repo",
+  "name": "@idems/idems-chatbot-tools",
   "version": "1.0.0",
   "description": "General functions for use with IDEMS chatbots",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "chatbot"
   ],
   "author": "IDEMS",
-  "license": "ISC",
+  "license": "GPL-3.0-only",
   "bugs": {
     "url": "https://github.com/IDEMSInternational/idems-chatbot-repo/issues"
   },
