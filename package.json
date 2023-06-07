@@ -1,6 +1,6 @@
 {
   "name": "@idems/idems-chatbot-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "General functions for use with IDEMS chatbots",
   "main": "index.js",
   "scripts": {
