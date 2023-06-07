@@ -1,0 +1,23 @@
+{
+  "name": "@idems/idems-chatbot-tools",
+  "version": "1.0.1",
+  "description": "General functions for use with IDEMS chatbots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDEMSInternational/idems-chatbot-repo.git"
+  },
+  "keywords": [
+    "IDEMS",
+    "chatbot"
+  ],
+  "author": "IDEMS",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/IDEMSInternational/idems-chatbot-repo/issues"
+  },
+  "homepage": "https://github.com/IDEMSInternational/idems-chatbot-repo#readme"
+}
